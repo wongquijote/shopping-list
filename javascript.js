@@ -16,6 +16,7 @@ function getItem(event) {
         listElem.remove();
         input.focus();
     })
+    document.getElementById("item").focus();
 };
 
 btn.addEventListener("click", getItem);
