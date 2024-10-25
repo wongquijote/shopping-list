@@ -1,2 +1,2 @@
 # shopping-list
-wongquijote.github.io/shopping-list
+https://wongquijote.github.io/shopping-list
